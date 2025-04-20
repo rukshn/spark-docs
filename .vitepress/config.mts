@@ -13,7 +13,8 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Examples", link: "/markdown-examples" },
     ],
-
+    logo: "/logo.svg",
+    logoLink: "https://cql.ruky.me",
     sidebar: [
       {
         text: "Introduction",
