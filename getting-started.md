@@ -59,4 +59,8 @@ There can be one or more collaborators, working a in a sigle project project. A 
 
 When you first sign up for a project, you will be automatically given access to the demo project which is only creatred for deonstration purposes.
 
-[def]: ttps://cql.ruky.me
+::: tip
+Read more about Projects and managing your projects in the :book: [Projects](/projects) page.
+:::
+
+## Codes and CodeSystems
