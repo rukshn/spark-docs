@@ -53,7 +53,7 @@ The CQL Editor has few key fundemental concepts
 
 ## Projects
 
-A project is a collection of CQL and the associated documentation.
+A project is a collection of CQL and the associated documentation. So the first thing you will have to do is create a new project for you and the team after signing up for CQL editor.
 
 There can be one or more collaborators, working a in a sigle project project. A project administrator can add collaborators and give access to a project.
 
@@ -64,3 +64,23 @@ Read more about Projects and managing your projects in the :book: [Projects](/pr
 :::
 
 ## Codes and CodeSystems
+
+CodeSystem and Codes are concepts used in FHIR,
+
+**Codes** in FHIR are standardized values that represent specific concepts in healthcare. They're used to represent diagnoses, medications, procedures, demographics, and other clinical and administrative information.
+
+**CodeSystems** are collections of codes with assigned meanings. They define the set of possible values that can be used in specific contexts.
+
+Before you start using CQL Editor, you will have to upload a `CodeSystem` with a `codes` (`concepts`) to CQL Editor. You can also connect a terminology server like OCL to get to `codes` from there.
+
+**So it is very important that you upload a `CodeSystem` before you start writing CQL on CQL editor**
+
+:::tip
+Read more about managing your `CodeSystems` and `Codes` within CQL editor in the :book: [Codes and CodeSystems](/codes-and-codesystems) page.
+:::
+
+::: info
+Read more about FHIR Codes and CodeSystems here: [Codes and CodeSystems in FHIR](https://claude.ai/share/ad75c90e-312e-4ea2-ad89-fff30dee48bf)
+:::
+
+## The Editor
