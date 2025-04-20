@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "CQL Editor Docs",
   description: "Documentation for CQL Editor",
+  base: "/spark-docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
