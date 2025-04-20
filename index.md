@@ -8,7 +8,7 @@ hero:
   tagline: A powerful tool to write and collaborate on CQL
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Start Writing CQL
       link: https://cql.ruky.me
     - theme: alt
       text: Read the Docs
