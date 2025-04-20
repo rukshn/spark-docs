@@ -5,6 +5,8 @@ export default defineConfig({
   title: "CQL Editor Docs",
   description: "Documentation for CQL Editor",
   base: "/spark-docs/",
+  head: [["link", { rel: "icon", href: "/spark-docs/favicon.ico" }]],
+  // https://vitepress.dev/reference/default-theme-config}]
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
