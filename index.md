@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "CQL Editor Docs"
+  name: "CQL Editor"
   text: "Documentation for CQL Editor"
   tagline: My great project tagline
   actions:
@@ -11,15 +11,16 @@ hero:
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Read the Docs
+      link: /introduction
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Real-time feedbacl
+    details: Real-time syntax highlight and error checking for your CQL
+  - title: Collaborate
+    details: Collaborate with multiple authors with CQL projects
+  - title: Export CQL
+    details: Export CQL as a FHIR library
+  - title: More
+    details: And lots more
 ---
-
