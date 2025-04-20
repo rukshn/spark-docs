@@ -4,12 +4,12 @@ layout: home
 
 hero:
   name: "CQL Editor"
-  text: "Documentation for CQL Editor"
-  tagline: My great project tagline
+  # text: "Documentation for CQL Editor"
+  tagline: A powerful tool to write and collaborate on CQL
   actions:
     - theme: brand
       text: Markdown Examples
-      link: /markdown-examples
+      link: https://cql.ruky.me
     - theme: alt
       text: Read the Docs
       link: /introduction
@@ -21,6 +21,4 @@ features:
     details: Collaborate with multiple authors with CQL projects
   - title: Export CQL
     details: Export CQL as a FHIR library
-  - title: More
-    details: And lots more
 ---
