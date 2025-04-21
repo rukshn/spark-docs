@@ -60,7 +60,7 @@ There can be one or more collaborators, working a in a sigle project project. A 
 When you first sign up for a project, you will be automatically given access to the demo project which is only creatred for deonstration purposes.
 
 ::: tip
-Read more about Projects and managing your projects in the :book: [Projects](/projects) page.
+Read more about Projects and managing your projects in the :book: [Projects](/projects/) page.
 :::
 
 ## Codes and CodeSystems
@@ -78,7 +78,7 @@ Before you start using CQL Editor, you will have to upload a `CodeSystem` with a
 You can still use the CQL editor without uploading a CodeSystem a terminology server, the editor will still provide you with syntax highlighting and error checking, but you will not get the nice autocomplete and parsing.
 
 :::tip
-Read more about managing your `CodeSystems` and `Codes` within CQL editor in the :book: [Codes and CodeSystems](/codes-and-codesystems) page.
+Read more about managing your `CodeSystems` and `Codes` within CQL editor in the :book: [Codes and CodeSystems](/codes-and-codesystems/) page.
 :::
 
 ::: info
@@ -94,5 +94,5 @@ The editor has the CQL documentation built in, where you can see the documentati
 Also if you have uploaded or connected a CodeSystem, you will see the definitions of the `Codes` popping up when you however over the codes, you can also parse the CQL to human readable format and has many more features.
 
 ::: tip
-Read more about the editor in the :book: [Editor](/editor) page.
+Read more about the editor in the :book: [Editor](/editor/) page.
 :::
