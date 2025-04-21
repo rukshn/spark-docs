@@ -23,6 +23,16 @@ export default defineConfig({
           { text: "Getting Started", link: "/getting-started" },
         ],
       },
+      {
+        text: "Project",
+        items: [],
+      },
+      {
+        text: "Terminology",
+      },
+      {
+        text: "Editor",
+      },
     ],
 
     socialLinks: [
