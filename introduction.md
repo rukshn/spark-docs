@@ -7,6 +7,9 @@ Clinical Quality Language (CQL) is a domain-specific language designed for repre
 CQL Editor provides a powerful online IDE and a collaborative platform to write and collaborate on CQL projects.
 Writing CQL can be a complex task if you are using a basic text editor without language support. That's where CQL editor comes in, it provides built in language support for CQL out of the box.
 
+- CQL Editor will provide an organization to maintain a central CQL library and most importantly documentation that is easy to maintain and collaborate with different CQL authors within the organization.
+- Allow users / clinicians / guideline authors to easily write CQL with a friendly user interface and parsing of CQL in a human readable format.
+
 **Here are some of the main features of CQL Editor to write CQL.**
 
 - Realtime synatax highliting and error checking as you write CQL

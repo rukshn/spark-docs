@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "CQL Editor"
+  name: "CQL Editor Documentation"
   # text: "Documentation for CQL Editor"
-  tagline: A powerful tool to write and collaborate on CQL
+  # tagline: A powerful tool to write and collaborate on CQL
   actions:
     - theme: brand
       text: Start Writing CQL
@@ -13,12 +13,17 @@ hero:
     - theme: alt
       text: Read the Docs
       link: /introduction
-
-features:
-  - title: Real-time feedbacl
-    details: Real-time syntax highlight and error checking for your CQL
-  - title: Collaborate
-    details: Collaborate with multiple authors with CQL projects
-  - title: Export CQL
-    details: Export CQL as a FHIR library
 ---
+
+## 🙋‍♂️ Why use CQL Editor?
+
+- CQL Editor will provide an organization to maintain a central CQL library and most importantly documentation that is easy to maintain and collaborate with different CQL authors within the organization.
+- Allow users / clinicians / guideline authors to easily write CQL with a friendly user interface and parsing of CQL in a human readable format.
+- The CQL editor will highlight syntax and keywords and provides an overall nice user experience in writing and managing CQL
+- Export the CQL in a FHIR friendly format through an API that can be used by other applications and CDSS
+
+## 💬 Feedback
+
+As experts in CQL, we would love to hear your feedback on the tool. We have been using it everyday to collaborate within our team in writing and sharing CQL and exporting it to different CDSS systems.
+
+You can leave feedback in this document, or email

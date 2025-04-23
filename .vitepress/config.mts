@@ -25,10 +25,33 @@ export default defineConfig({
       },
       {
         text: "Project",
-        items: [],
+        items: [
+          {
+            text: "What's a CQL project?",
+            link: "/projects",
+          },
+          {
+            text: "Managing your project",
+            link: "/projects/managing-project",
+          },
+          {
+            text: "Switching between projects",
+            link: "/projects/switching-project",
+          },
+        ],
       },
       {
         text: "Terminology",
+        items: [
+          {
+            text: "CodeSystem and Concepts",
+            link: "/terminology/codesystem-concepts",
+          },
+          {
+            text: "Managing your concepts",
+            link: "/terminology/managing-concepts",
+          },
+        ],
       },
       {
         text: "Editor",
