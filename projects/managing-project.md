@@ -5,7 +5,7 @@ You can manage a project by navigating to the `Manage Project` page when you are
 If you don't have an active project selected, you will first have to select a project before managing a project.
 
 ::: tip
-Read more about switching between different projects [here](/projects/switching-project/)
+Read more about switching between different projects [here](/projects/switching-project)
 :::
 
 TODO: Insert a screenshot in project management page
