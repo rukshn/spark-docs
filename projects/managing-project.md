@@ -5,7 +5,7 @@ You can manage a project by navigating to the `Manage Project` page when you are
 If you don't have an active project selected, you will first have to select a project before managing a project.
 
 ::: tip
-Read more about switching between different projects [here](/projects/switching-project)
+Read more about switching between different projects here
 :::
 
 TODO: Insert a screenshot in project management page
@@ -23,5 +23,5 @@ You will need to have administrator privileges to delete a project.
 :::
 
 ::: danger
-Deleting a project will also delete all the settings and importantly the CQL. And the action irreversible.
+Deleting a project will also delete all the settings and importantly the CQL. And the action **is irreversible**.
 :::

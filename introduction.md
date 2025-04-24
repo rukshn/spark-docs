@@ -12,7 +12,7 @@ Writing CQL can be a complex task if you are using a basic text editor without l
 
 **Here are some of the main features of CQL Editor to write CQL.**
 
-- Realtime synatax highliting and error checking as you write CQL
+- Realtime **syntax highlighting** and error checking as you write CQL
 - Autocomplete your CQL with `codes` / `concepts` from a terminology service
 - In-built CQL documentation
 - Create and manage multiple CQL projects in single environment
