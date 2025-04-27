@@ -1,3 +1,7 @@
+---
+title: Getting started with CQL editor
+---
+
 # Getting Started
 
 ## Signup for the CQL editor
@@ -175,7 +179,7 @@ Before you start using CQL Editor, you will have to upload a `CodeSystem` with a
 You can still use the CQL editor without uploading a CodeSystem a terminology server, the editor will still provide you with syntax highlighting and error checking, but you will not get the nice autocomplete and parsing.
 
 :::tip
-Read more about managing your `CodeSystems` and `Codes` within CQL editor in the :book: [Codes and CodeSystems](/codes-and-codesystems/) page.
+Read more about managing your `CodeSystems` and `Codes` within CQL editor in the :book: [Codes and CodeSystems](/terminology/concepts/) page.
 :::
 
 ::: info

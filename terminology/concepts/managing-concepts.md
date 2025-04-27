@@ -1,3 +1,7 @@
+---
+title: Managing Codes and Data Dictionary
+---
+
 # Managing Your Codes
 
 ## How to add concepts to CQL Editor?

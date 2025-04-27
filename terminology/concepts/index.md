@@ -1,3 +1,7 @@
+---
+title: Introduction to Data Dictionary
+---
+
 # Terminology
 
 Clinical concepts and other content used to code CQL can be stored in the CQL Editor.
@@ -18,7 +22,9 @@ The benefits of auto-completion include:
 
 Concepts can be clinical or non-clinical content, but the purpose of these concepts or terminology is to **standardize** the CQL code. This helps **eliminate** **ambiguity** when different authors are writing CQL, especially when multiple CQL files are involved in a single project.
 
-These concepts are stored in FHIR format, in a resource known as a `CodeSystem`. And within the `CodeSystem`, they are stored as **concepts**.
+These concepts are stored in FHIR format, in a resource known as a `CodeSystem`. Within the `CodeSystem`, they are stored as **concepts**.
+
+Your collection of `concepts` in one or more `CodeSystems` is known as the Data Dictionary.
 
 ::: info
 If you are not familiar with FHIR `CodeSystem`, read about `CodeSystems` in the FHIR documentation.
