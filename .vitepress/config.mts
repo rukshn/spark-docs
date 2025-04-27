@@ -45,7 +45,7 @@ export default defineConfig({
         items: [
           {
             text: "CodeSystem and Concepts",
-            link: "/terminology/codesystem-concepts",
+            link: "/terminology/concepts/",
           },
           {
             text: "Managing your concepts",
