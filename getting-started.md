@@ -1,5 +1,5 @@
 ---
-title: Getting started with CQL editor
+title: Getting Started With CQL Editor
 ---
 
 # Getting Started

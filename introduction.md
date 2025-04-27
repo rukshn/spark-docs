@@ -1,3 +1,7 @@
+---
+title: Introduction to CQL Editor
+---
+
 # Introduction
 
 Clinical Quality Language (CQL) is a domain-specific language designed for representing clinical knowledge and quality measures in healthcare. Developed as a replacement for earlier languages, CQL provides a human-readable, computable format that bridges the gap between clinical expertise and technical implementation.
