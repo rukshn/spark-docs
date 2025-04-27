@@ -1,4 +1,8 @@
-# Switching Projects
+---
+title: Switching Between Projects
+---
+
+# Switching Between Projects
 
 In CQL editor you can create any number of projects, as well as users can add you to a project.
 
