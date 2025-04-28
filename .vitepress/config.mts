@@ -22,7 +22,7 @@ export default defineConfig({
           )
           .map((page) => ({
             url: page.url,
-            title: page.frontmatter,
+            title: page.frontmatter.title,
           }));
       },
     });
