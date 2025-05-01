@@ -44,7 +44,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "CQL Editor", link: "https://cql.ruky.me" },
     ],
     logo: "/logo.svg",
     logoLink: "https://cql.ruky.me",
@@ -91,8 +91,6 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
-    ],
+    socialLinks: [{ icon: "github", link: "https://github.com/rukshn" }],
   },
 });
