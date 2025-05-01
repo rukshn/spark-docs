@@ -26,4 +26,4 @@ hero:
 
 As experts in CQL, we would love to hear your feedback on the tool. We have been using it everyday to collaborate within our team in writing and sharing CQL and exporting it to different CDSS systems.
 
-You can leave feedback in this document, or email
+You can leave feedback in this [document](https://docs.google.com/document/d/1UPHdSGk8icUiDnm8RpGsv48t0IYNdyec7KP_HR0Ofwo/edit?usp=sharing), or [email](mailto:rukshan@ruky.me)
