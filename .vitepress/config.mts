@@ -88,6 +88,13 @@ export default defineConfig({
       },
       {
         text: "Editor",
+        link: "/editor",
+        items: [
+          {
+            text: "Writing CQL in the Editor",
+            link: "/editor/writing-cql",
+          },
+        ],
       },
     ],
 
