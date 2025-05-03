@@ -15,3 +15,13 @@ It suggests keywords to autocomplete your CQL, does syntax highlighting to read 
 The editor is also the place where you can parse your CQL and make it more human-readable.
 
 CQL documentation is also built-in to the editor, making it easier to write CQL and even understand CQL without referring the documentation.
+
+The editor has different modes that serves different purposes,
+
+- The editor mode
+- The meta-data mode
+- The parsing mode
+
+## The editor mode
+
+The editor mode is the place where you write CQL. This is the default mode that you see when you first open the editor.
