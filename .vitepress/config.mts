@@ -82,7 +82,7 @@ export default defineConfig({
           },
           {
             text: "Managing your concepts",
-            link: "/terminology/managing-concepts",
+            link: "/terminology/concepts/managing-concepts",
           },
         ],
       },
