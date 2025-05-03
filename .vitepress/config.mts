@@ -91,6 +91,10 @@ export default defineConfig({
         link: "/editor",
         items: [
           {
+            text: "Introduction to the Editor",
+            link: "/editor/",
+          },
+          {
             text: "Writing CQL in the Editor",
             link: "/editor/writing-cql",
           },
