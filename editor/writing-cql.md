@@ -27,3 +27,11 @@ If you have a CodeSystem (Concepts) added to your project you can hover over the
 ![Definition of a concept based on the CodeSystem](image-1.png)
 
 ## How to check for a syntax error in a CQL?
+
+When you are writing your CQL, the editor will automatically check for any syntax errors as you type. For example, unclosed brackets, any syntax errors that won't meet the CQL language rules.
+
+**If there is an error, you will see an underline within the CQL editor at the position of the syntax error.**
+
+If you want to know what's the error, you can simply hover over the underlined word and a popup will show the syntax error according to the CQL language specification.
+
+![Syntax error](image-2.png)
