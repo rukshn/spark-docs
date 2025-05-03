@@ -12,7 +12,7 @@ This can be done by **uploading** a FHIR `CodeSystem` resource as a `json` file 
 
 - Navigate to the `New CodeSystem` page from the left sidebar: `Data Dictionary` -> `New CodeSystem`
 
-!Upload Code System
+![Uploading codesystem](image-3.png)
 
 **There are two ways to upload a `CodeSystem` file:**
 
@@ -21,9 +21,7 @@ This can be done by **uploading** a FHIR `CodeSystem` resource as a `json` file 
   - Select the `json` files you want to upload and click 'Open'.
 - Whether you drag and drop or select the `CodeSystem` files, if successfully selected, the table below will show the `name`, `url`, and the number of concepts within each CodeSystem file.
 
-!CodeSystem files in detail
-
-**If you accidentally select a `CodeSystem` file, you can remove it by clicking the `x` button at the end of its row.**
+**If you accidentally select a `CodeSystem` file that you don't want to upload, you can remove it by clicking the `x` button at the end of its row.**
 
 - After selecting your files, click the **Upload** button. Your `CodeSystem` files will be uploaded, and all the `concepts` within them will become available for use in the CQL Editor.
 
