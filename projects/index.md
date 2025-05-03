@@ -23,13 +23,13 @@ There are several ways to create a project in the CQL Editor:
 
 If you are already in a project, you can go to the `Project Switcher` on the left sidebar and click the `New Project` button.
 
-**TODO:** Insert a screenshot of the new project button in the project switcher here
+![New Project Button](image.png)
 
 This will navigate you to the New Project page.
 
 There you can give your project a name and a description (_both fields are required_). After providing the name and description, click the `Create Project` button.
 
-TODO: Insert a screenshot of a new project page here
+![New Project Page](image-1.png)
 
 You will see a small **popup** appear upon successful creation of your project. Your project will be added to the `Project Switcher`, and you can now select your newly created project and switch to it.
 
