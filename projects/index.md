@@ -35,7 +35,7 @@ You will see a small **popup** appear upon successful creation of your project. 
 
 If you are not in an active project, you will also see two buttons appear on the sidebar. One option will be to navigate to the New Project page.
 
-TODO: Insert a screenshot of the left sidebar project create button
+![Left sidebar project create or switch](image-2.png)
 
 From there, you can also create a new project by following the steps mentioned above.
 
@@ -45,6 +45,6 @@ If you navigate to the dashboard, it will show a list of all the projects you ha
 
 At the very end of the list, there is a button to create a new project. Clicking this link will navigate you to the New Project page.
 
-TODO: Insert a screenshot of the dashboard with the button visible
+![Create project button in dashboard](image-3.png)
 
 From there, you will also be able to create a new project as mentioned above.
