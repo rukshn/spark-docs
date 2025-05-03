@@ -10,7 +10,7 @@ This allows the CQL editor to autocomplete with the codes stored within it when 
 
 **This is CQL editor autocomplete in action:**
 
-TODO: Insert a clip of autocomplete
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1081104117?h=9155afde6f" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 The benefits of auto-completion include:
 

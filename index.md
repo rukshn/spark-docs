@@ -27,3 +27,7 @@ hero:
 As experts in CQL, we would love to hear your feedback on the tool. We have been using it everyday to collaborate within our team in writing and sharing CQL and exporting it to different CDSS systems.
 
 You can leave feedback in this [document](https://docs.google.com/document/d/1UPHdSGk8icUiDnm8RpGsv48t0IYNdyec7KP_HR0Ofwo/edit?usp=sharing), or [email](mailto:rukshan@ruky.me)
+
+## 📹 Demo
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1081104117?h=9155afde6f" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
