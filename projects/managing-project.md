@@ -12,7 +12,7 @@ If you don't have an active project selected, you will first have to select a pr
 Read more about switching between different projects [here](/projects/switching-project).
 :::
 
-TODO: Insert a screenshot of the project management page
+![Project Management Page](image-5.png)
 
 ## Adding Users to a Project
 

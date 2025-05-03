@@ -14,4 +14,4 @@ If you don't have any active project on the dashboard you will see a list of pro
 
 When you switch a project, automatically all the CQL belonging to that project will be loaded and will populate the left sidebar.
 
-TODO: Add a screenshot of the project **switcher**
+![Project switcher](image-4.png)
