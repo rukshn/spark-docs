@@ -100,10 +100,13 @@ export default defineConfig({
             text: "Writing CQL in the Editor",
             link: "/editor/writing-cql",
           },
+          {
+            text: "Export CQL as a FHIR Library",
+            link: "/editor/export-cql-as-fhir-library",
+          },
         ],
       },
     ],
-
     socialLinks: [{ icon: "github", link: "https://github.com/rukshn" }],
   },
 });
