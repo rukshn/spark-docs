@@ -9,3 +9,7 @@ The editor mode is the main mode that you go to when you open the editor. It all
 :::tip
 You can learn more about writing CQL in the editor mode by reading the [Writing CQL](/editor/writing-cql) section.
 :::
+
+:::tip
+Switch between editor and metadata mode by using `⌘ + m` or `⌃ + m`
+:::
