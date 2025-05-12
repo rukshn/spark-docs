@@ -51,9 +51,9 @@ export default defineConfig({
     sidebar: [
       {
         text: "Introduction",
-        link: "/introduction",
+        link: "/",
         items: [
-          { text: "What is CQL Editor?", link: "/introduction" },
+          { text: "What is CQL Editor?", link: "/" },
           { text: "Getting Started", link: "/getting-started" },
         ],
       },
