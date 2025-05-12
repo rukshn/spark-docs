@@ -1,33 +1,28 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
-layout: home
-
-hero:
-  name: "CQL Editor Documentation"
-  # text: "Documentation for CQL Editor"
-  # tagline: A powerful tool to write and collaborate on CQL
-  actions:
-    - theme: brand
-      text: Start Writing CQL
-      link: https://thespark.dev
-    - theme: alt
-      text: Read the Docs
-      link: /introduction
+title: Introduction to CQL Editor
 ---
 
-## 🙋‍♂️ Why use CQL Editor?
+# Introduction
+
+Clinical Quality Language (CQL) is a domain-specific language designed for representing clinical knowledge and quality measures in healthcare. Developed as a replacement for earlier languages, CQL provides a human-readable, computable format that bridges the gap between clinical expertise and technical implementation.
+
+## Why you should use CQL Editor?
+
+CQL Editor provides a powerful online IDE and a collaborative platform to write and collaborate on CQL projects.
+Writing CQL can be a complex task if you are using a basic text editor without language support. That's where CQL editor comes in, it provides built in language support for CQL out of the box.
 
 - CQL Editor will provide an organization to maintain a central CQL library and most importantly documentation that is easy to maintain and collaborate with different CQL authors within the organization.
 - Allow users / clinicians / guideline authors to easily write CQL with a friendly user interface and parsing of CQL in a human readable format.
-- The CQL editor will highlight syntax and keywords and provides an overall nice user experience in writing and managing CQL
-- Export the CQL in a FHIR friendly format through an API that can be used by other applications and CDSS
 
-## 💬 Feedback
+**Here are some of the main features of CQL Editor to write CQL.**
 
-As experts in CQL, we would love to hear your feedback on the tool. We have been using it everyday to collaborate within our team in writing and sharing CQL and exporting it to different CDSS systems.
+- Realtime **syntax highlighting** and error checking as you write CQL
+- Autocomplete your CQL with `codes` / `concepts` from a terminology service
+- In-built CQL documentation
+- Create and manage multiple CQL projects in single environment
+- Collaborate with multiple CQL authors within a project
+- Export CQL as a FHIR library
+- Write documentation on your CQL
+- And so much more ...
 
-You can leave feedback in this [document](https://docs.google.com/document/d/1UPHdSGk8icUiDnm8RpGsv48t0IYNdyec7KP_HR0Ofwo/edit?usp=sharing), or [email](mailto:rukshan@ruky.me)
-
-## 📹 Demo
-
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/1081104117?h=9155afde6f" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+Let's get started
