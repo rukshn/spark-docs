@@ -12,7 +12,7 @@ If you don't have an account, first you need to **sign up** for the CQL editor. 
 - Using GitHub
 
 ::: tip
-:bulb: Navigate to [Signup](http://cql.ruky.me/signup) to **sign up** with your email address or using GitHub.
+:bulb: Navigate to [Signup](http://thespark.dev/signup) to **sign up** with your email address or using GitHub.
 :::
 
 ### Signing up with email address
@@ -109,7 +109,7 @@ If you don't have an account, first you need to signup for the CQL editor. Curre
 - Using GitHub
 
 ::: tip
-:bulb: Navigate to [Signup](http://cql.ruky.me/signup) to signup with your email address or using GitHub.
+:bulb: Navigate to [Signup](http://thespark.dev/signup) to signup with your email address or using GitHub.
 :::
 
 ### Signing up with email address
@@ -122,7 +122,7 @@ When Signing up with your email address, you will first have to provide some inf
 
 After entering the above details click `Signup`.
 
-**This will create your user user account and you will be automatically redirected to the [login](http://cql.ruky.me/login) page.**
+**This will create your user user account and you will be automatically redirected to the [login](http://thespark.dev/login) page.**
 
 And you can now login with your email address and password.
 

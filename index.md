@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: Start Writing CQL
-      link: https://cql.ruky.me
+      link: https://thespark.dev
     - theme: alt
       text: Read the Docs
       link: /introduction

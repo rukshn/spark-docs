@@ -4,11 +4,11 @@ import fs from "fs";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "CQL Editor Docs",
-  description: "Documentation for CQL Editor",
-  base: "/spark-docs/",
+  title: "Spark Editor Docs",
+  description: "Documentation for the Spark Editor",
+  base: "/",
   sitemap: {
-    hostname: "https://rukshn.github.io/spark-docs/",
+    hostname: "https://docs.thespark.dev",
   },
   async buildEnd() {
     const posts = await createContentLoader("./**/*.md", {
@@ -44,10 +44,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "CQL Editor", link: "https://cql.ruky.me" },
+      { text: "CQL Editor", link: "https://thespark.dev" },
     ],
     logo: "/logo.svg",
-    logoLink: "https://cql.ruky.me",
+    logoLink: "https://docs.thespark.dev",
     sidebar: [
       {
         text: "Introduction",
