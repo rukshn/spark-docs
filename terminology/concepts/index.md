@@ -4,9 +4,9 @@ title: Introduction to Data Dictionary
 
 # Terminology
 
-Clinical concepts and other content used to code CQL can be stored in the CQL Editor.
+Clinical concepts, the data dictionary and other content used to code CQL can be stored in the CQL Editor.
 
-This allows the CQL editor to autocomplete with the codes stored within it when writing. These codes are referred to as `concepts` or `codes` in the CQL editor. This aligns with the terminology concept in FHIR.
+This allows the CQL editor to autocomplete with the codes stored within it when writing. These codes are referred to as `concepts` or `codes` in the CQL editor. This aligns with the terminology concept in FHIR, and the Data Dictonary in the DAK.
 
 **This is CQL editor autocomplete in action:**
 

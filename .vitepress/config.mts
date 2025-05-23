@@ -107,6 +107,10 @@ export default defineConfig({
         ],
       },
     ],
+    footer: {
+      message:
+        "AI models are used for generating parts of the documentation and validated before publication. If you find any inconsistancy please file a bug on GitHub",
+    },
     socialLinks: [{ icon: "github", link: "https://github.com/rukshn" }],
   },
 });
