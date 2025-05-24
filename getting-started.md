@@ -1,12 +1,12 @@
 ---
-title: Getting Started With CQL Editor
+title: Getting Started With Spark Editor
 ---
 
 # Getting Started
 
-## Signup for the CQL editor
+## Signup for the Spark editor
 
-If you don't have an account, first you need to **sign up** for the CQL editor. Currently there are two ways to **sign up** for the CQL Editor.
+If you don't have an account, first you need to **sign up** for the Spark editor. Currently there are two ways to **sign up** for the Spark editor.
 
 - Using your email address
 - Using GitHub
@@ -37,17 +37,17 @@ If you **sign up** with an email address, you will not be able to push your CQL 
 
 If you prefer to **sign up** with GitHub which is more **convenient** (you don't have to remember a password), you can simply click `Login With GitHub` button.
 
-**This will redirect you to the `CQL Pen` GitHub application which give permission to login to CQL Editor using your GitHub account.**
+**This will redirect you to the `CQL Pen` GitHub application which give permission to login to Spark editor using your GitHub account.**
 
 As similar to **Signing up** with your email address, **Signing up** with GitHub will automatically obtain your Name, and Email address used in your GitHub account.
 
-In future can easily login to CQL editor using your GitHub account from the login page.
+In future can easily login to Spark editor using your GitHub account from the login page.
 
 ::: tip
 We will automatically generate a profile picture for your account using Gravatar. If you already have a profile picture defined using Gravatar, it will be used instead.
 :::
 
-## CQL Editor
+## The Spark sditor
 
 The CQL Editor has few key **fundamental** concepts
 
@@ -101,9 +101,9 @@ Also if you have uploaded or connected a CodeSystem, you will see the definition
 Read more about the editor in the :book: Editor page.
 :::
 
-## Signup for the CQL editor
+## Signup for the Spark editor
 
-If you don't have an account, first you need to signup for the CQL editor. Currently there are two ways to signup for the CQL Editor.
+If you don't have an account, first you need to signup for the Spark editor. Currently there are two ways to signup for the Spark Editor.
 
 - Using your email address
 - Using GitHub
@@ -132,17 +132,23 @@ If you signup with an email address, you will not be able to push your CQL to Gi
 
 ### Signing up with GitHub
 
-If you prefer to signup with GitHub which is more convinient (you don't have to remember a password), you can simply click `Login With GitHub` button.
+If you prefer to signup with GitHub which is a one click process that does not require using providing a password, you can simply click `Login With GitHub` button.
 
-**This will redirect you to the `CQL Pen` GitHub application which give permission to login to CQL Editor using your GitHub account.**
+**This will redirect you to the `CQL Pen` GitHub application which give permission to login to Saprk Editor using your GitHub account.**
 
-As similar to Signing up with your email address, Signing up with GitHub will automatically obtain your Name, and Email address used in your GitHub account.
+When signing up with GitHub will automatically obtain your Name, and Email address used in your GitHub account and use it within the Spark Editor.
 
-In future can easily login to CQL editor using your GitHub account from the login page.
+After signing up with your GitHub account, you can loging to Spark Editor anytime with your GitHub account.
 
 ::: tip
 We will automatically generate a profile picture for your account using [Gravatar](https://en.gravatar.com/). If you already have a profile picture defined using Gravatar, it will be used instead.
 :::
+
+## Login to the Spark editor
+
+If you already have an account created, you can login by navigating to the login page at [thespark.dev/login](http://thespark.dev/login).
+
+If signed up using your email and password, you can loging by using the form, and if you signed up using GitHub, you can login using your GitHub account with one click.
 
 ## CQL Editor
 
@@ -154,7 +160,7 @@ The CQL Editor has few key fundemental concepts
 
 ## Projects
 
-A project is a collection of CQL and the associated documentation. So the first thing you will have to do is create a new project for you and the team after signing up for CQL editor.
+A project is a collection of CQL and the associated documentation. So the first thing you will have to do is create a new project for you and the team after signing up for spark editor.
 
 There can be one or more collaborators, working a in a sigle project project. A project administrator can add collaborators and give access to a project.
 
@@ -172,14 +178,14 @@ CodeSystem and Codes are concepts used in FHIR,
 
 - **CodeSystems** are collections of codes with assigned meanings. They define the set of possible values that can be used in specific contexts.
 
-Before you start using CQL Editor, you will have to upload a `CodeSystem` with a `codes` (`concepts`) to CQL Editor. You can also connect a terminology server like OCL to get to `codes` from there.
+Before you start using Saprk Editor, you will have to upload a `CodeSystem` with a `codes` (`concepts`) to Spark Editor. You can also connect a terminology server like OCL to get to `codes` from there.
 
-**So it is very important that you upload a `CodeSystem` before you start writing CQL on CQL editor to use the auto-complete feature.**
+**So it is very important that you upload a `CodeSystem` before you start writing CQL on Spark editor to use the auto-complete feature.**
 
-You can still use the CQL editor without uploading a CodeSystem a terminology server, the editor will still provide you with syntax highlighting and error checking, but you will not get the nice autocomplete and parsing.
+You can still use the Spark editor without uploading a CodeSystem a terminology server, the editor will still provide you with syntax highlighting and error checking, but you will not get the nice autocomplete and parsing.
 
 :::tip
-Read more about managing your `CodeSystems` and `Codes` within CQL editor in the :book: [Codes and CodeSystems](/terminology/concepts/) page.
+Read more about managing your `CodeSystems` and `Codes` within Spark editor in the :book: [Codes and CodeSystems](/terminology/concepts/) page.
 :::
 
 ::: info
