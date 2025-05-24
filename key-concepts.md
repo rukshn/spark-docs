@@ -10,7 +10,7 @@ Before getting started it's very improtant to learn about the few basic concepts
 If you are new to SMART Guidelines, reading about SMART guideliens will also help you to understand more about CQL and digital clinical guidelines
 :::
 
-## The Spark sditor
+## The Spark editor
 
 The CQL Editor has few key **fundamental** concepts
 
