@@ -102,6 +102,10 @@ export default defineConfig({
             link: "/editor/writing-cql",
           },
           {
+            text: "Navigate between CQL",
+            link: "/editor/navigate-between-cql",
+          },
+          {
             text: "Export CQL as a FHIR Library",
             link: "/editor/export-cql-as-fhir-library",
           },
