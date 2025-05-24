@@ -55,6 +55,7 @@ export default defineConfig({
         items: [
           { text: "What is CQL Editor?", link: "/" },
           { text: "Getting Started", link: "/getting-started" },
+          { text: "Key Concepts", link: "/key-concepts" },
         ],
       },
       {
