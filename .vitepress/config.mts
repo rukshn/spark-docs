@@ -54,8 +54,8 @@ export default defineConfig({
         link: "/",
         items: [
           { text: "What is CQL Editor?", link: "/" },
-          { text: "Getting Started", link: "/getting-started" },
-          { text: "Key Concepts", link: "/key-concepts" },
+          { text: "Getting started", link: "/getting-started" },
+          { text: "Key concepts", link: "/key-concepts" },
         ],
       },
       {
@@ -80,7 +80,7 @@ export default defineConfig({
         text: "Terminology",
         items: [
           {
-            text: "CodeSystem and Concepts",
+            text: "CodeSystem and concepts",
             link: "/terminology/concepts/",
           },
           {
@@ -94,11 +94,11 @@ export default defineConfig({
         link: "/editor",
         items: [
           {
-            text: "Introduction to the Editor",
+            text: "Introduction to the editor",
             link: "/editor/",
           },
           {
-            text: "Writing CQL in the Editor",
+            text: "Writing CQL in the editor",
             link: "/editor/writing-cql",
           },
           {
@@ -106,7 +106,7 @@ export default defineConfig({
             link: "/editor/navigate-between-cql",
           },
           {
-            text: "Export CQL as a FHIR Library",
+            text: "Export CQL as a FHIR library",
             link: "/editor/export-cql-as-fhir-library",
           },
         ],
@@ -114,7 +114,7 @@ export default defineConfig({
     ],
     footer: {
       message:
-        "AI models are used for generating parts of the documentation and validated before publication. If you find any inconsistancy please file a bug on GitHub",
+        "AI models are used for generating parts of the documentation and validated before publication. If you find any inconsistency please file a bug on GitHub",
     },
     socialLinks: [{ icon: "github", link: "https://github.com/rukshn" }],
   },
