@@ -4,7 +4,7 @@ title: Introduction to the Editor
 
 # Introduction to the Editor
 
-The editor is the place where you write your CQL and the most special part of the CQL editor.
+The editor is the place where you write your CQL and the most special part of the The Spark Editor.
 
 It suggests keywords to autocomplete your CQL, does syntax highlighting to read your CQL more easily, as well as checks your CQL for accuracy, and shows any errors and where it's happening.
 

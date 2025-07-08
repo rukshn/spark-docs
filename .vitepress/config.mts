@@ -44,7 +44,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "CQL Editor", link: "https://thespark.dev" },
+      { text: "The Spark Editor", link: "https://thespark.dev" },
     ],
     logo: "/logo.svg",
     logoLink: "https://docs.thespark.dev",

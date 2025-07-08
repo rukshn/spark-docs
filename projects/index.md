@@ -6,7 +6,7 @@ title: What is a CQL Project and Creating a Project
 
 A project is a collection of CQL and a place where users can collaborate on writing and managing a CQL project.
 
-To give you an idea of what a project looks like, you will be automatically added to a demo project when you **sign in** to the CQL Editor.
+To give you an idea of what a project looks like, you will be automatically added to a demo project when you **sign in** to the The Spark Editor.
 
 ::: tip
 The first thing you will have to do after signing up is create a project and add your collaborators.
@@ -14,7 +14,7 @@ The first thing you will have to do after signing up is create a project and add
 
 ## Creating a project
 
-There are several ways to create a project in the CQL Editor:
+There are several ways to create a project in the The Spark Editor:
 
 - Using the left sidebar
 - Using the dashboard

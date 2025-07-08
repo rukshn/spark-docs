@@ -4,7 +4,7 @@ title: Switching Between Projects
 
 # Switching Between Projects
 
-In CQL editor you can create any number of projects, as well as users can add you to a project.
+In The Spark Editor you can create any number of projects, as well as users can add you to a project.
 
 All the projects that you have access to can be found at the top left corner of the sidebar.
 

@@ -4,11 +4,11 @@ title: Introduction to Data Dictionary
 
 # Terminology
 
-Clinical concepts, the data dictionary and other content used to code CQL can be stored in the CQL Editor.
+Clinical concepts, the data dictionary and other content used to code CQL can be stored in the The Spark Editor.
 
-This allows the CQL editor to autocomplete with the codes stored within it when writing. These codes are referred to as `concepts` or `codes` in the CQL editor. This aligns with the terminology concept in FHIR, and the Data Dictonary in the DAK.
+This allows the The Spark Editor to autocomplete with the codes stored within it when writing. These codes are referred to as `concepts` or `codes` in the The Spark Editor. This aligns with the terminology concept in FHIR, and the Data Dictonary in the DAK.
 
-**This is CQL editor autocomplete in action:**
+**This is The Spark Editor autocomplete in action:**
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/1081104117?h=9155afde6f" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 

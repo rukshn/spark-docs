@@ -12,7 +12,7 @@ If you are new to SMART Guidelines, reading about SMART guideliens will also hel
 
 ## The Spark editor
 
-The CQL Editor has few key **fundamental** concepts
+The The Spark Editor has few key **fundamental** concepts
 
 - Projects
 - Codes and CodeSystems
@@ -20,7 +20,7 @@ The CQL Editor has few key **fundamental** concepts
 
 ## Projects
 
-A project is a collection of CQL and the associated documentation. So the first thing you will have to do is create a new project for you and the team after **signing up** for CQL editor.
+A project is a collection of CQL and the associated documentation. So the first thing you will have to do is create a new project for you and the team after **signing up** for The Spark Editor.
 
 There can be one or more collaborators, working a in a **single project**. A project administrator can add collaborators and give access to a project.
 
@@ -38,14 +38,14 @@ CodeSystem and Codes are concepts used in FHIR,
 
 - **CodeSystems** are collections of codes with assigned meanings. They define the set of possible values that can be used in specific contexts.
 
-Before you start using CQL Editor, you will have to upload a `CodeSystem` with a `codes` (`concepts`) to CQL Editor. You can also connect a terminology server like OCL to get to `codes` from there.
+Before you start using The Spark Editor, you will have to upload a `CodeSystem` with a `codes` (`concepts`) to The Spark Editor. You can also connect a terminology server like OCL to get to `codes` from there.
 
-**So it is very important that you upload a `CodeSystem` before you start writing CQL on CQL editor to use the auto-complete feature.**
+**So it is very important that you upload a `CodeSystem` before you start writing CQL on The Spark Editor to use the auto-complete feature.**
 
-You can still use the CQL editor without uploading a CodeSystem a terminology server, the editor will still provide you with syntax highlighting and error checking, but you will not get the nice autocomplete and parsing.
+You can still use the The Spark Editor without uploading a CodeSystem a terminology server, the editor will still provide you with syntax highlighting and error checking, but you will not get the nice autocomplete and parsing.
 
 :::tip
-Read more about managing your `CodeSystems` and `Codes` within CQL editor in the :book: Codes and CodeSystems page.
+Read more about managing your `CodeSystems` and `Codes` within The Spark Editor in the :book: Codes and CodeSystems page.
 :::
 
 ::: info
