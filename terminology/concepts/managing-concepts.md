@@ -4,11 +4,18 @@ title: Managing Codes and Data Dictionary
 
 # Managing Your Codes
 
-## How to add concepts to CQL Editor?
+## How to add concepts to Spark Editor?
 
-When you start a new CQL project, the first thing you should do is add a CodeSystem before you start writing CQL.
+When you start a new CQL project, the first thing you should do is to populate the data dictionary before you start writing CQL.
 
-This can be done by **uploading** a FHIR `CodeSystem` resource as a `json` file (containing all the `concepts`) to the CQL editor.
+This can be done two different ways
+
+- Bulk uploading codes by **uploading** a FHIR `CodeSystem` resource as a `json` file (containing all the `concepts`) to the Spark editor.
+- Manually add individual codes to the project
+
+### Bulk uploading a data dictionary as a FHIR CodeSystem
+
+To populate the data dictionary using a FHIR CodeSystem,
 
 - Navigate to the `New CodeSystem` page from the left sidebar: `Data Dictionary` -> `New CodeSystem`
 
@@ -23,11 +30,22 @@ This can be done by **uploading** a FHIR `CodeSystem` resource as a `json` file 
 
 **If you accidentally select a `CodeSystem` file that you don't want to upload, you can remove it by clicking the `x` button at the end of its row.**
 
-- After selecting your files, click the **Upload** button. Your `CodeSystem` files will be uploaded, and all the `concepts` within them will become available for use in the CQL Editor.
+- After selecting your files, click the **Upload** button. Your `CodeSystem` files will be uploaded, and all the `concepts` within them will become available for use in the Spark Editor.
+
+### Adding individual codes to the data dictionary of a project
+
+You can now add individual codes to the data dictionary of a project, this allows you to add codes that are not available in the FHIR CodeSystem file, or selectively add codes to the data dictionary.
+
+![Add codes manually to the data dictionary](image-4.png)
+
+- In order to add codes, you can navigate to the **New CodeSystem** page and click on the **Add Codes Manually** option
+- This will open up the form to add codes manually
+- Enter the `Code` and it's definition by filling the `Display`
+- Click `Add Code` button to add the code to the data dictionary
 
 ## Updating the concepts
 
-The concepts used in a CDSS project can change over time; new concepts might be added, and old concepts might be removed. When writing CQL, you will need to keep the concepts **up-to-date** within the CQL Editor to ensure they are available for parsing and autocompletion.
+The concepts used in a CDSS project can change over time; new concepts might be added, and old concepts might be removed. When writing CQL, you will need to keep the concepts **up-to-date** within the Spark Editor to ensure they are available for parsing and autocompletion.
 
 To update your list of concepts, navigate to the same page used for uploading a new `CodeSystem` (`Data Dictionary` -> `New CodeSystem`) and upload the updated `CodeSystem` FHIR resource `json` file containing the new or modified codes.
 

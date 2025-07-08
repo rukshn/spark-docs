@@ -53,7 +53,7 @@ export default defineConfig({
         text: "Introduction",
         link: "/",
         items: [
-          { text: "What is CQL Editor?", link: "/" },
+          { text: "What is Spark Editor?", link: "/" },
           { text: "Getting started", link: "/getting-started" },
           { text: "Key concepts", link: "/key-concepts" },
         ],
@@ -100,6 +100,10 @@ export default defineConfig({
           {
             text: "Writing CQL in the editor",
             link: "/editor/writing-cql",
+          },
+          {
+            text: "Graph Mode",
+            link: "/editor/graph-mode",
           },
           {
             text: "Navigate between CQL",
